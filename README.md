@@ -247,10 +247,9 @@ The strategy is evaluated across multiple asset pairs and time periods. For each
 
 ---
 
-```markdown
+
 ## ▶️ How to Run
 
-```bash
 git clone https://github.com/yourusername/adaptive-stat-arb-kalman.git
 cd adaptive-stat-arb-kalman
 pip install -r requirements.txt
