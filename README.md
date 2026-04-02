@@ -80,6 +80,7 @@ $$
 $$
 p_{1,t} = \beta_t \cdot p_{2,t} + \alpha_t + \text{noise}
 $$
+
 ---
 
 ### 4️⃣ Kalman Filter
