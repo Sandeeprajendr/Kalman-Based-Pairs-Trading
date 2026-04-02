@@ -250,10 +250,12 @@ The strategy is evaluated across multiple asset pairs and time periods. For each
 
 ## ▶️ How to Run
 
+```bash
 git clone https://github.com/yourusername/adaptive-stat-arb-kalman.git
 cd adaptive-stat-arb-kalman
 pip install -r requirements.txt
 python main.py
+```
 ---
 
 ## 🚀 Future Improvements
@@ -262,5 +264,4 @@ python main.py
 - Incorporate **more realistic transaction cost and slippage models**    
 - Add **risk management techniques** (position sizing, stop-loss)  
 - Explore **alternative signals** (machine learning or regime detection)  
-
----
+ ---
