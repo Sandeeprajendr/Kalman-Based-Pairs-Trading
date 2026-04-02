@@ -69,9 +69,17 @@ $$
 
 ### 3️⃣ State-Space Model
 
-State Equation: beta_t = beta_{t-1} + noise  
-Observation Equation: p1_t = beta_t * p2_t + alpha_t + noise
+**State Equation:**
 
+$$
+\beta_t = \beta_{t-1} + \text{noise}
+$$
+
+**Observation Equation:**
+
+$$
+p_{1,t} = \beta_t \cdot p_{2,t} + \alpha_t + \text{noise}
+$$
 ---
 
 ### 4️⃣ Kalman Filter
